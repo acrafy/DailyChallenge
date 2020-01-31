@@ -11,6 +11,7 @@ public class Difficult {
 		int difficult=0;
 		
 		do {
+			
 	        System.out.println("--	Choose a difficult for Challenges	--");
 	        System.out.println("------------------------------------------");
 	        System.out.println("- 1  - Java Challenges -- Easy 		-");
